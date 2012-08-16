@@ -172,7 +172,7 @@
   "string_tests": [
       "xml:lang='es'",
       "xml:lang='en'",
-      "licencia Creative Commons Atribuci",
+      "Licencia Creative Commons Atribuci",
       "Creative Commons Attribution 3.0 Unported License"]},
  {"path": "/choose/metadata.xmp?field_morepermissionsurl=http%3A%2F%2Ftest.foo",
   "string_tests": [
